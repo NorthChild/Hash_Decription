@@ -17,12 +17,6 @@ Debug Output:
 
 <?php
 
-// pssw 1 = 0bd65e799153554726820ca639514029 = 4429
-// pssw 2 = aa36c88c27650af3b9868b723ae15dfc = 4413
-// pssw 3 = 1ca906c1ad59db8f11643829560bab55 = Not Found
-// pssw 4 = 1d8d70dddf147d2d92a634817f01b239 = 4427
-// pssw 5 = acf06cdd9c744f969958e1f085554c8b = 3341
-
 $goodtext = "Not found";
 // If there is no parameter, this code is all skipped
 if ( isset($_GET['md5']) ) {
