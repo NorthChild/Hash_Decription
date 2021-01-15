@@ -15,4 +15,4 @@ this is a very simple program divided in three sections:
 
 
 DISCLAIMER:
-this exercise is part of my university assignment
+this exercise was part of my university assignment
